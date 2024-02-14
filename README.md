@@ -72,6 +72,6 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,mongodb,mysql,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,mongodb,mysql,py,vscode,sklearn, powerbi, tableau&perline=14" />
   </a>
 </p>
