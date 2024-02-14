@@ -18,7 +18,7 @@
     
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![NoSQL](https://img.shields.io/badge/NoSQL%20-%23339933.svg?style=for-the-badge&logo=nosql&logoColor=white)
-    ![SQL](https://img.shields.io/badge/SQL%20-%23CC2927.svg?style=for-the-badge&logo=sql&logoColor=white)
+    ![SQL](https://img.shields.io/badge/SQL%20-%2300599C.svg?style=for-the-badge&logo=database&logoColor=white)
 
 <br>   
     
