@@ -8,12 +8,13 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
+```
 - :school: Economist specializing in Finance and Data.
 - 🌱 I’m currently learning ** X, Y Z **
 - 🥅 2024 Goals:
 - I’m currently open for a new job opportunity
-
-
+```
+<hr>
 
 # <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Tech Stack 
 
