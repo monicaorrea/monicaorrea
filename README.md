@@ -78,3 +78,16 @@
   </td>
   </tr>
 </table>
+
+      <h2><b>How to Reach Me</b></h2>
+      <br>
+      <p>Please don't hesitate to contact me 
+        <br>if you need further information or help.
+      </p>
+      <br>
+      <a href="mailto:monicaorreavizcaino@gmail.com" >
+      <img align="center" alt="Taban Soleymani | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
+      </a> &nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/monicaorrea/" >
+      <img align="center" alt="Mónica Órrea | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
+      </a> &nbsp;&nbsp;
