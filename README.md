@@ -37,7 +37,7 @@
 - **Languages**:
     
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![NoSQL](https://img.shields.io/badge/NoSQL%20-%23339933.svg?style=for-the-badge&logo=nosql&logoColor=white)
+    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
     ![SQL](https://img.shields.io/badge/:badgeContent?style=social&logo=sql&logoColor=blue)
 
 <br>   
