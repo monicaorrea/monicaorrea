@@ -40,12 +40,14 @@
 ### <picture> <img src = "https://cdn.icon-icons.com/icons2/38/PNG/512/database_5664.png" width=20px>  </picture> DataBases
 
     <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=flat-square&logo=mongodb&logoColor=white"
+      <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=flat-square&logo=mongodb&logoColor=white"
       alt="mongodb"/>
-      
-    <a href="https://www.mysql.com/products/workbench/" target="_blank"> 
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL Workbench"/>
-
+    </a>
+     
+     <a href="https://www.mysql.com/products/workbench/" target="_blank"> 
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL Workbench"/>
+     </a>
+     
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Data Analysis
 
 ![ApacheSpark](https://img.shields.io/badge/ApacheSpark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white)
