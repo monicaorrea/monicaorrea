@@ -6,7 +6,6 @@
 
 # <picture><img src = "https://img.freepik.com/vector-gratis/analizar-ilustracion-concepto_114360-4222.jpg?w=826&t=st=1707989318~exp=1707989918~hmac=cd001fc486cbf28d09a5e1b37ce2426530727c933cf9c0b3f382720064835ef0" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 ```
 - 📚 Economist specializing in Finance from Universidad de Santiago de Compostela and Data Science from Universidad Complutense de Madrid.
