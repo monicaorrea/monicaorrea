@@ -40,7 +40,7 @@
 - **Databases** :
   
     <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
+    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=flat-square&logo=mongodb&logoColor=white"
       alt="mongodb"/>
     <a href="https://www.mysql.com/products/workbench/" target="_blank"> 
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL Workbench"/>
