@@ -62,15 +62,13 @@
 ![Google Colab](https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white")
 
 
-
-</p>
-
-<br>
-
+     </p>
+    </td>
+  </tr>
+  <tr>
+   <td>
 
 ## It's not perfect, isn't it?
-
-**<img alt="Feedback" src="https://img.shields.io/badge/Contact%20me-8A2BE2">**
 
 “I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
 – Elon Musk
