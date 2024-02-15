@@ -39,7 +39,10 @@
     <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/>
-![SQL](https://img.shields.io/badge/:badgeContent?style=social&logo=sql&logoColor=blue)
+    <a href="https://www.mysql.com/products/workbench/" target="_blank"> 
+        <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench"/>
+</a>
+
 
 <br>   
     
