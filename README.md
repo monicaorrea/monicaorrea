@@ -75,10 +75,11 @@
 “I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
 – Elon Musk
 
-  </td>
-  </tr>
-</table>
-
+   </td>
+   <td>
+    <div align="center">
+      <h2><b>How to Reach Me</b></h2>
+      <br>
       <h2><b>How to Reach Me</b></h2>
       <br>
       <p>Please don't hesitate to contact me 
@@ -91,3 +92,8 @@
       <a href="https://www.linkedin.com/in/monicaorrea/" >
       <img align="center" alt="Mónica Órrea | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
       </a> &nbsp;&nbsp;
+     <br>
+    </div>
+   </td>
+  </tr>
+</table>
