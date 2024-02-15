@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Science+and+Data+Analyst,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
 </p>
 
-# <picture><img src = "https://img.freepik.com/vector-gratis/analizar-ilustracion-concepto_114360-4222.jpg?w=826&t=st=1707989318~exp=1707989918~hmac=cd001fc486cbf28d09a5e1b37ce2426530727c933cf9c0b3f382720064835ef0" width = 50px></picture> **About me**
+# <picture><img src = "https://img.freepik.com/vector-premium/mujer-sentada-computadora-portatil-aislada_113065-32.jpg?w=996" width = 50px></picture> **About me**
 
 
 ```
