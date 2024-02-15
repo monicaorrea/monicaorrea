@@ -10,17 +10,41 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: "Courier New", monospace;
+        }
+        picture img, img {
+            font-family: "Courier New", monospace;
+        }
+    </style>
+    <title>About Me</title>
+</head>
+<body>
+
 
 # <picture><img src = "https://img.freepik.com/vector-gratis/analizar-ilustracion-concepto_114360-4222.jpg?w=826&t=st=1707989318~exp=1707989918~hmac=cd001fc486cbf28d09a5e1b37ce2426530727c933cf9c0b3f382720064835ef0" width = 50px></picture> **About me**
 
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+
 <br>
 
-- Economist specializing in Finance and Data.
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- I’m currently open for a new job opportunity.
+<ul>
+    <li>Economist specializing in Finance and Data.</li>
+    <li>Playing CTF's at spare time.</li>
+    <li>Currently learning Web Development by Self.</li>
+    <li>I’m currently open for a new job opportunity.</li>
+</ul>
 
 <br><br>
+
+</body>
+</html>
 
 
 # <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Tech Stack 
