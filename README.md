@@ -12,7 +12,7 @@
 - 📝 I have a strong interest in Data Science and Artificial Intelligence
 - 🌱 I’m currently learning ** X, Y Z **
 - 🥅 2024 Goals:
-- I’m currently open for a new job opportunity
+- 🔎 I’m currently open for a new job opportunity
 ```
 <hr>
 
