@@ -10,7 +10,7 @@
 
 - :school: Economist specializing in Finance and Data.
 - 🌱 I’m currently learning ** X, Y Z **
-- Currently learning Web Development by Self.
+- 🥅 2024 Goals:
 - I’m currently open for a new job opportunity
 
 
