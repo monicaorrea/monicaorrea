@@ -8,10 +8,10 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-Economist specializing in Finance and Data.
-Playing CTF's at spare time.
-Currently learning Web Development by Self.
-I’m currently open for a new job opportunity
+- :school: Economist specializing in Finance and Data.
+- Playing CTF's at spare time.
+- Currently learning Web Development by Self.
+- I’m currently open for a new job opportunity
 
 
 
