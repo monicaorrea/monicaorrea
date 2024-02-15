@@ -11,7 +11,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://img.freepik.com/vector-gratis/mujer-que-usa-computadora-portatil-codigo-binario_1308-115515.jpg?w=740&t=st=1707989174~exp=1707989774~hmac=98bf58393b067f92b15b6419b90ab30fc293d8422ea07e4dedaebfc183569889" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
