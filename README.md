@@ -42,8 +42,9 @@
     <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=flat-square&logo=mongodb&logoColor=white"
       alt="mongodb"/>
+      
     <a href="https://www.mysql.com/products/workbench/" target="_blank"> 
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL Workbench"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL Workbench"/>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Data Analysis
 
