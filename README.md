@@ -11,7 +11,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## <picture><img src = "https://img.freepik.com/vector-gratis/analizar-ilustracion-concepto_114360-4222.jpg?w=826&t=st=1707989318~exp=1707989918~hmac=cd001fc486cbf28d09a5e1b37ce2426530727c933cf9c0b3f382720064835ef0" width = 50px></picture> **About me**
+# <picture><img src = "https://img.freepik.com/vector-gratis/analizar-ilustracion-concepto_114360-4222.jpg?w=826&t=st=1707989318~exp=1707989918~hmac=cd001fc486cbf28d09a5e1b37ce2426530727c933cf9c0b3f382720064835ef0" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
