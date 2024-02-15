@@ -9,7 +9,8 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 ```
-- :school: Economist specializing in Finance and Data.
+- 📚 Economist specializing in Finance from Universidad de Santiago de Compostela and Data Science from Universidad Complutense de Madrid.
+- 📝 I have a strong interest in Data Science and Artificial Intelligence
 - 🌱 I’m currently learning ** X, Y Z **
 - 🥅 2024 Goals:
 - I’m currently open for a new job opportunity
