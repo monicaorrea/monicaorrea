@@ -37,7 +37,7 @@
       <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white" alt="python"/>
   </a>
 
-### <picture> <img src = "https://www.flaticon.es/icono-gratis/base-de-datos_1420398" width = 20px>  </picture> DataBases
+### <picture> <img src="https://www.flaticon.es/icono-gratis/base-de-datos_1420398" alt="Flaticon" width="20px">  </picture> DataBases
 
     <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=flat-square&logo=mongodb&logoColor=white"
