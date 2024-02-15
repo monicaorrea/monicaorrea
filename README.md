@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/>
     <a href="https://www.mysql.com/products/workbench/" target="_blank"> 
-        <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL Workbench"/>
 </a>
 
 
