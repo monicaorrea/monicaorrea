@@ -42,6 +42,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white)
+![Pytorch](https://img.shields.io/badge/pytorch-%23000000.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=Scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
