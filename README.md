@@ -81,3 +81,14 @@
     <img src="https://skillicons.dev/icons?i=git,github,linux,mongodb,mysql,py,vscode,sklearn,tensorflow,googlecloud,sc&perline=14" />
   </a>
 </p>
+
+## It's not perfect, isn't it?
+
+**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
+
+“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
+– Elon Musk
+
+  </td>
+  </tr>
+</table>
