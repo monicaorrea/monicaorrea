@@ -9,7 +9,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - :school: Economist specializing in Finance and Data.
-- Playing CTF's at spare time.
+- 🌱 I’m currently learning ** X, Y Z **
 - Currently learning Web Development by Self.
 - I’m currently open for a new job opportunity
 
