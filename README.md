@@ -8,7 +8,7 @@
 
 
 ```
-- 📚 Economist specializing in Finance from Universidad de Santiago de Compostela and Data Science from Universidad Complutense de Madrid.
+- 📚 Economist specialist in Finance from Universidad de Santiago de Compostela and Data Science from Universidad Complutense de Madrid.
 - 📝 I have a strong interest in Data Science and Artificial Intelligence
 - 🌱 I’m currently learning ** X, Y Z **
 - 🥅 2024 Goals:
