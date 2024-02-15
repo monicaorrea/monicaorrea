@@ -62,12 +62,6 @@
 ![Google Colab](https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white")
 
 
-     </p>
-    </td>
-  </tr>
-  <tr>
-   <td>
-
 ## It's not perfect, isn't it?
 
 “I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
