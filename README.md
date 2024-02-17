@@ -1,8 +1,6 @@
-<h1 align="center"><b> # 🚧 Under Construction 🚧
- <!--  -->
-<p align="center">
-  I am working to improve this page! Come back soon to see the updates.
-</p>
+# 🚧 Under Construction 🚧
+I am working to improve this page! Come back soon to see the updates.
+
 
 
 
