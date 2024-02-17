@@ -1,5 +1,10 @@
-# 🚧 Under Construction 🚧
-I am working to improve this page! Come back soon to see the updates.
+<h1 align="center"><b> # 🚧 Under Construction 🚧
+ <!--  -->
+<p align="center">
+  I am working to improve this page! Come back soon to see the updates.
+</p>
+
+
 
 
 <h1 align="center"><b>Hi , I'm Mónica Órrea </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
