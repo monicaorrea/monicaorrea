@@ -1,17 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Under Construction</title>
-</head>
-<body>
+# 🚧 Under Construction 🚧
 
-    <h1>🚧 Under Construction 🚧</h1>
-    <p>I am working to improve this page! Come back soon to see the updates.</p>
-
-</body>
-</html>
+I am working to improve this page! Come back soon to see the updates.
 
 
 <h1 align="center"><b>Hi , I'm Mónica Órrea </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
