@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Under Construction</title>
 </head>
-<body style="text-align: center; padding: 50px;">
+<body>
 
     <h1>🚧 Under Construction 🚧</h1>
     <p>I am working to improve this page! Come back soon to see the updates.</p>
