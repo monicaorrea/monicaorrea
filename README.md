@@ -25,7 +25,7 @@ I am working to improve this page! Come back soon to see the updates.
   - **Specialize in advanced data visualization and storytelling**: focus on creating compelling data narratives that drive decision-making, using advanced Python libraries (e.g., Plotly, Seaborn, Matplotlib) to build customized, interactive visualizations and dashboards that highlight key insights.
   - **Contribute to open-source or collaborative projects**: actively participate in the data community and enhance my teamwork skills in real-world settings.
 <hr>
-
+´´´
 # <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Tech Stack 
 
 ### <picture> <img src = "https://cdn-icons-png.flaticon.com/512/2756/2756184.png" width = 20px>  </picture> Programming languages
