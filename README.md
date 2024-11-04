@@ -8,19 +8,22 @@ I am working to improve this page! Come back soon to see the updates.
 <h1 align="center"><b>Hi , I'm Mónica Órrea </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Science+and+Data+Analyst,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Analyst,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
 </p>
 
 # <picture><img src = "https://img.freepik.com/vector-premium/mujer-sentada-computadora-portatil-aislada_113065-32.jpg?w=996" width = 50px></picture> **About me**
 
 
 ```
-- 📚 Economist specialist in Finance from Universidad de Santiago de Compostela and Data Science from Universidad Complutense de Madrid.
-- 📝 I have a strong interest in Data Science and Artificial Intelligence
-- 🌱 I’m currently learning ** X, Y Z **
-- 🥅 2024 Goals:
-- 🔎 I’m currently open for a new job opportunity
-```
+- 📚 I have a background in **Economics** with further specialization through a **Master's in Finance** and a **Master's in Data Science and Big Data**. This multidisciplinary education allows me to combine analytical rigor with a strategic understanding of financial and data-driven insights.
+- 📝 Currently working as a **Data Analyst** on multiple projects, I manage end-to-end processes, from data extraction and transformation to delivering actionable insights through impactful visualizations. I specialize in ETL workflows that drive data accuracy and relevance for business decision-making.
+- 🌱 I’m currently learning **new technologies and programming languages** to enhance my data analysis and engineering skills, focusing on tools that improve efficiency and scalability.
+- 🥅 2025 Goals:
+  - **Master advanced Machine Learning techniques**: deepen my knowledge in predictive and classification models, working with more complex algorithms like neural networks and unsupervised clustering models.
+  - **Obtain a Data Analytics certification** (such as **Microsoft Certified: Power BI Data Analyst Associate**, **Google Data Analytics Professional Certificate**, or **IBM Data Analyst Professional Certificate**) to enhance my technical skills and demonstrate proficiency in data analysis and visualization.
+  - **Expand my skills in data engineering**: learn to build and optimize real-time data pipelines using tools like **Apache Kafka** or **Google Dataflow**.
+  - **Specialize in advanced data visualization and storytelling**: focus on creating compelling data narratives that drive decision-making, using advanced Python libraries (e.g., Plotly, Seaborn, Matplotlib) to build customized, interactive visualizations and dashboards that highlight key insights.
+  - **Contribute to open-source or collaborative projects**: actively participate in the data community and enhance my teamwork skills in real-world settings.
 <hr>
 
 # <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Tech Stack 
