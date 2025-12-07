@@ -11,18 +11,45 @@ I am working to improve this page! Come back soon to see the updates.
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Analyst,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
 </p>
 
-# <picture><img src = "https://img.freepik.com/vector-premium/mujer-sentada-computadora-portatil-aislada_113065-32.jpg?w=996" width = 50px></picture> **About me**
 
+# 👩‍💻 About Me
 
+I’m Mónica, a Data Analyst and Business Intelligence Consultant with a multidisciplinary background in Economics, Finance, and Data Science. My expertise lies in transforming raw data into clear, actionable insights that drive strategic decisions.
 
-- 📚 I have a background in **Economics** with further specialization through a **Master's in Finance** and a **Master's in Data Science and Big Data**. This multidisciplinary education allows me to combine analytical rigor with a strategic understanding of financial and data-driven insights.
-- 📝 Currently working as a **Data Analyst** on multiple projects, I manage end-to-end processes, from data extraction and transformation to delivering actionable insights through impactful visualizations. I specialize in ETL workflows that drive data accuracy and relevance for business decision-making.
-- 🌱 I’m currently learning new technologies and programming languages to enhance my data analysis and engineering skills, focusing on tools that improve efficiency and scalability.
-- 🥅 2025 Goals:
-  - Master advanced Machine Learning techniques: deepen my knowledge in predictive and classification models, working with more complex algorithms like neural networks and unsupervised clustering models.
-  - Obtain a Data Analytics certification (such as Microsoft Certified: Power BI Data Analyst Associate, Google Data Analytics Professional Certificate, or IBM Data Analyst Professional Certificate) to enhance my technical skills and demonstrate proficiency in data analysis and visualization.
-  - Specialize in advanced data visualization and storytelling: focus on creating compelling data narratives that drive decision-making, using advanced Python libraries (e.g., Plotly, Seaborn, Matplotlib) to build customized, interactive visualizations and dashboards that highlight key insights.
-  - Contribute to open-source or collaborative projects: actively participate in the data community and enhance my teamwork skills in real-world settings.
+---
+
+## 🔎 What I Do
+- Design and optimize **ETL workflows** to ensure data accuracy and reliability.
+- Build **interactive dashboards in Power BI** that turn complex datasets into compelling stories.
+- Apply **SQL, DAX, and advanced Excel** to deliver end-to-end solutions for institutional and freelance projects.
+- Conduct **comparative and financial analysis** to support business growth and stability.
+
+---
+
+## 🛠️ Tech Stack
+- **BI & Visualization**: Power BI, Excel (advanced), DAX  
+- **Data Management**: SQL, ETL pipelines, data modeling  
+- **Programming & Tools**: Python (Pandas, Seaborn, Plotly), Git, Jupyter  
+- **Workflow Optimization**: Modular templates, automation, and scalable reporting solutions  
+
+---
+
+## 📚 Continuous Learning
+- Exploring **advanced Power BI features** (visual calculations, parameters, traversal order).  
+- Preparing for the **PL-300 certification** to validate my expertise in data modeling and reporting.  
+- Expanding into **machine learning fundamentals** to enrich my analytical toolkit.  
+
+---
+
+## 🌍 Beyond Work
+- Passionate about **fitness tracking and optimization**, applying data-driven methods to personal routines.  
+- Interested in **property management and financial planning**, leveraging analytical skills for long-term stability.  
+- Curious about **appliance troubleshooting and technical documentation**, always seeking root-cause solutions.  
+
+---
+
+💡 *Data is not just numbers — it’s context, clarity, and the foundation for better decisions.*
+
 
 <hr>
 
