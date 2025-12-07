@@ -14,7 +14,7 @@ I am working to improve this page! Come back soon to see the updates.
 
 # 👩‍💻 About Me
 
-I’m Mónica, a Data Analyst and Business Intelligence Consultant with a multidisciplinary background in Economics, Finance, and Data Science. My expertise lies in transforming raw data into clear, actionable insights that drive strategic decisions.
+I’m Mónica, a Freelance Data Analyst and Business Intelligence Consultant with a multidisciplinary background in Economics, Finance, and Data Science. My expertise lies in transforming raw data into clear, actionable insights that drive strategic decisions.
 
 ---
 
@@ -26,11 +26,13 @@ I’m Mónica, a Data Analyst and Business Intelligence Consultant with a multid
 
 ---
 
-## 🛠️ Tech Stack
-- **BI & Visualization**: Power BI, Excel (advanced), DAX  
-- **Data Management**: SQL, ETL pipelines, data modeling  
-- **Programming & Tools**: Python (Pandas, Seaborn, Plotly), Git, Jupyter  
-- **Workflow Optimization**: Modular templates, automation, and scalable reporting solutions  
+## 🛠️ Core Tech Stack
+- **Business Intelligence & Visualization**: Power BI, Tableau, Excel (advanced), DAX  
+- **Data Analysis**: Python (Pandas, NumPy, Plotly, Seaborn, SciPy)  
+- **Databases**: SQL Server, MySQL, MongoDB  
+- **Big Data & Cloud**: Azure, Databricks, Apache Spark  
+- **AI & ML (Foundations)**: Scikit-learn, TensorFlow, PyTorch, Keras, HuggingFace  
+- **Workflow & Tools**: Git/GitHub, Visual Studio, VS Code, Jupyter  
 
 ---
 
@@ -49,6 +51,8 @@ I’m Mónica, a Data Analyst and Business Intelligence Consultant with a multid
 ---
 
 💡 *Data is not just numbers — it’s context, clarity, and the foundation for better decisions.*
+
+---
 
 
 <hr>
