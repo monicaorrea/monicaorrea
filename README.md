@@ -26,7 +26,6 @@ I’m Mónica, an **Analytics Engineer & Data Technical Lead** certified in **Mi
 
 ---
 
-## 🛠️ Core Tech Stack
 ## 🛠️ Tech Stack & Expertise
 
 - **Data Engineering & Architecture**: Microsoft Fabric (DP-600), SQL Server, T-SQL, SSIS, Data Modeling (Dimensional/Star Schema), ETL/ELT Pipelines, Data Quality & Governance
