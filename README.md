@@ -14,39 +14,39 @@ I am working to improve this page! Come back soon to see the updates.
 
 # 👩‍💻 About Me
 
-I’m Mónica, a Freelance Data Analyst and Business Intelligence Consultant with a multidisciplinary background in Economics, Finance, and Data Science. My expertise lies in transforming raw data into clear, actionable insights that drive strategic decisions.
+I’m Mónica, an **Analytics Engineer & Data Technical Lead** certified in **Microsoft Fabric (DP-600)** with a multidisciplinary background in Economics, Finance, and Data Science. My expertise lies in designing end-to-end data architectures, leading technical implementations, and transforming complex data platforms into scalable business solutions.
 
 ---
 
 ## 🔎 What I Do
-- Design and optimize **ETL workflows** to ensure data accuracy and reliability.
-- Build **interactive dashboards in Power BI** that turn complex datasets into compelling stories.
-- Apply **SQL, DAX, and advanced Excel** to deliver end-to-end solutions for institutional and freelance projects.
-- Conduct **comparative and financial analysis** to support business growth and stability.
+- **Data Engineering & Architecture:** Design, build, and optimize scalable ETL/ELT pipelines and enterprise data models using Microsoft Fabric, SQL, and SSIS.
+- **Technical Leadership & Delivery:** Lead sprint planning, define technical standards, and conduct E2E solution validations for complex public and enterprise data projects.
+- **Analytics Engineering & Enterprise BI:** Build robust semantic models and advanced Power BI architectures aligned with business domain logic.
+- **Stakeholder Alignment:** Translate complex business requirements into high-performance technical specs, bridging the gap between business strategy and data infrastructure.
 
 ---
 
 ## 🛠️ Core Tech Stack
-- **Business Intelligence & Visualization**: Power BI, Tableau, Excel (advanced), DAX  
-- **Data Analysis**: Python (Pandas, NumPy, Plotly, Seaborn, SciPy)  
-- **Databases**: SQL Server, MySQL, MongoDB  
-- **Big Data & Cloud**: Azure, Databricks, Apache Spark  
-- **AI & ML (Foundations)**: Scikit-learn, TensorFlow, PyTorch, Keras, HuggingFace  
-- **Workflow & Tools**: Git/GitHub, Visual Studio, VS Code, Jupyter  
+## 🛠️ Tech Stack & Expertise
+
+- **Data Engineering & Architecture**: Microsoft Fabric (DP-600), SQL Server, T-SQL, SSIS, Data Modeling (Dimensional/Star Schema), ETL/ELT Pipelines, Data Quality & Governance
+- **Cloud & Big Data**: Azure (Data Factory, Synapse), Databricks, Apache Spark, Python (PySpark, Pandas)
+- **Business Intelligence & Analytics**: Power BI (Enterprise Semantic Models, DAX), Advanced Data Visualization
+- **Technical Leadership & Delivery**: Technical Coordination, Sprint Planning (Agile/Scrum), E2E Solution Validation, Stakeholder Alignment
+- **Tools & DevOps**: Git/GitHub, Visual Studio, VS Code, CI/CD Fundamentals
 
 ---
 
 ## 📚 Continuous Learning
-- Exploring **advanced Power BI features** (visual calculations, parameters, traversal order).  
-- Preparing for the **PL-300 certification** to validate my expertise in data modeling and reporting.  
-- Expanding into **machine learning fundamentals** to enrich my analytical toolkit.  
+- 🎯 Preparing for the **Microsoft DP-700 certification** (*Implementing Data Engineering Solutions using Microsoft Fabric*) to expand enterprise cloud data engineering capabilities.
+- 🏗️ Deepening knowledge in **advanced Fabric architectures**, Lakehouse optimization, and Real-Time Intelligence.
+- 🚀 Scaling technical leadership practices in **Agile delivery, Data Governance, and E2E data platform execution**.  
 
 ---
-
 ## 🌍 Beyond Work
-- Passionate about **fitness tracking and optimization**, applying data-driven methods to personal routines.  
-- Interested in **property management and financial planning**, leveraging analytical skills for long-term stability.  
-- Curious about **appliance troubleshooting and technical documentation**, always seeking root-cause solutions.  
+- 🏋️ **Data-Driven Performance:** Applying tracking frameworks, analytical methods, and optimization to personal fitness and strength training routines.
+- 📈 **Financial Planning & Strategy:** Leveraging an Economics & Finance background for long-term planning, property management, and strategic asset allocation.
+- ⚙️ **Root-Cause Problem Solving:** Naturally curious about dissecting complex systems, troubleshooting mechanics, and writing clear documentation—both in software and everyday tech.
 
 ---
 
