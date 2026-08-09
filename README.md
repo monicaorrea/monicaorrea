@@ -8,8 +8,9 @@ I am working to improve this page! Come back soon to see the updates.
 <h1 align="center"><b>Hi , I'm Mónica Órrea </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Analyst,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Engineer,;Technical+Consultant,;Technical+Lead+%7C+Data+%26+BI">
 </p>
+
 
 
 # 👩‍💻 About Me
